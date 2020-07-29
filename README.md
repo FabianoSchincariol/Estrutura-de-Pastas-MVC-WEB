@@ -15,10 +15,10 @@ npm install node-modules
 
 ### Estruturas das Pastas
 
------app
-      |----controllers
-      |----models
-      |----views
+_______ app
+      |_____ controllers
+      |_____ models
+      |_____ views
 -----bin
 -----config
 -----data
