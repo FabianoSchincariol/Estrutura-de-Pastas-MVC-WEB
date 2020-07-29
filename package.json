@@ -1,0 +1,22 @@
+{
+  "name": "estrutura-de-pastas-mvc-web",
+  "version": "1.0.0",
+  "description": "estrutura inicial de um projeto web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianoSchincariol/Estrutura-de-Pastas-MVC-WEB.git"
+  },
+  "author": "Fabiano Schincariol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianoSchincariol/Estrutura-de-Pastas-MVC-WEB/issues"
+  },
+  "homepage": "https://github.com/FabianoSchincariol/Estrutura-de-Pastas-MVC-WEB#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
