@@ -14,20 +14,21 @@ npm install node-modules
 ```
 
 ### Estruturas das Pastas
-
+```bash
 _______ app
       |_____ controllers
       |_____ models
       |_____ views
------bin
------config
------data
------node_modules -> este é instalado com o comando 
------public
-      |----css
-      |----images
-      |----js
------routes
------sql
+______ bin
+______ config
+______ data
+______ node_modules  
+______ public
+      |____ css
+      |____ images
+      |____ js
+______ routes
+______ sql
 app.js
 package.json
+```
